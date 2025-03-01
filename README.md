@@ -3,6 +3,11 @@
 ## Overview
 Welcome to **City Skyline**, an OpenGL-powered project that brings a bustling metropolis to life at night! 🌃 This animated scene features a glowing skyline, shimmering skyscrapers, moving vehicles, and a beautiful starry sky—all designed to create a mesmerizing cityscape.
 
+## Preview
+Check out how it looks in action! 🎬
+
+![City Skyline](https://raw.githubusercontent.com/ashreenn/OpenGL_City_Skyline/refs/heads/main/preview.gif)
+
 ## Features
 ✨ **A Vibrant Night Skyline** – Watch as the city lights up with illuminated skyscrapers and a bright moon above.
 
@@ -31,19 +36,10 @@ Welcome to **City Skyline**, an OpenGL-powered project that brings a bustling me
    ```sh
    ./CitySkyline
    ```
-
-
-
-## Preview
-Check out how it looks in action! 🎬
-
-![City Skyline](CityatNight2025-03-0122-16-48online-video-cutter.com-ezgif.com-video-to-gif-converter.gif)
-
-
 ## Author
 Ashreen Kaur
 
 ---
-Enjoy the glowing beauty of **City Skyline**, and happy coding! 🚀
+
 
 
